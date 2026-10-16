@@ -1,1 +1,1 @@
-{"name":"gseb-teaching-agent-mobile","version":"1.0.0","private":true,"main":"expo/AppEntry.js","scripts":{"start":"expo start","android":"expo start --android","ios":"expo start --ios"},"dependencies":{"expo":"latest","react":"latest","react-native":"latest"}}
+{"scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest"},"devDependencies":{}}
